@@ -1,7 +1,7 @@
 <h1 align="center"> Formulário de Eventos </h1>
 
 <p align="center">
-Um Página para formulario de eventos feito para 💻 Desktop, feito em conjunto com a Rocketseat 🚀 no Avançando em HTML e CSS, do Explorer (stage-03). 
+Um Página para formulario de eventos feito para 💻 Desktop, feito em conjunto com a Rocketseat 🚀 no módulo: Avançando em HTML e CSS, do Explorer (stage-03). 
 </p>
 
 <p align="center">
